@@ -15,6 +15,7 @@
 
 @layer components {
   @import url(./SideBar.css);
+  @import url(./TopNavigation.css);
 }
 
 @tailwind utilities;
